@@ -1,0 +1,38 @@
+body {
+  background-color: lightgreen;
+  background-image: url("fa26eeb3b8fd794fee6dddfc09451ad4.jpg");
+}
+
+ol {
+  font-size: 20px;
+}
+
+ol.myOL {
+  display: inline-block;
+  text-align: left;
+}
+
+div.container {
+  text-align: center;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+.button{
+  text-align: center;
+}
+.buttonClass {
+  background-color: green;
+  font-family:'Times New Roman', Times, serif;
+  color: yellow;
+  padding: 15px 32px;
+  text-align: center;
+  display: inline-block;
+  font-size: 20px;
+  margin: 2px 2px;
+  cursor: pointer;
+}
