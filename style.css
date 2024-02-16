@@ -1,21 +1,8 @@
-body {
-  background-color: red;
-  background-image: url("fa26eeb3b8fd794fee6dddfc09451ad4.jpg");
-}
-
-ol {
-  font-size: 20px;
-}
-
-ol.myOL {
-  display: inline-block;
-  text-align: left;
-}
-
-div.container {
+.ship{
   text-align: center;
+  font-family:'Times New Roman', Times, serif;
+  font-size: 50px;
 }
-
 .center {
   display: block;
   margin-left: auto;
@@ -26,7 +13,6 @@ div.container {
   text-align: center;
 }
 .buttonClass {
-  background-color: green;
   font-family:'Times New Roman', Times, serif;
   color: yellow;
   padding: 15px 32px;
