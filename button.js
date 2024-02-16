@@ -12,7 +12,7 @@ function ChangeLiked()
 "Coyote the Clairvoyant","Opa son of Mikepas","Keen-Eared Sita","Yugin of the Golden Voice","Pahsa","Pohsa","Snow",
 "Misyl","Erique","Gillin of Izganda","Brigan of Izganda","Totan of Dozahk","Invar of Izganda","Null Milchain","Thistle",
 "Freinag Merini","Delgal Merini","Eodio Merini","Yaad Merini","Zon","Leed","Bahay","Dotoy","Min","Gageh","Don","Ban",
-"Fionil","Doni"];
+"Fionil","Doni","Holm's Sister","Daya's Cousin"];
 
   const random = Math.floor(Math.random() * months.length);
 
